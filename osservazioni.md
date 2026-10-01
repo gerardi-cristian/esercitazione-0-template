@@ -25,6 +25,8 @@ Esito dopo la modifica e spiegazione della correzione:
 
 ## Step 1 — Git
 
+Frase di controllo
+
 Quali file ho incluso nel commit e perché:
 
 Come ho verificato che la versione provata sia presente su GitHub:
